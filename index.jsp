@@ -115,7 +115,7 @@
 <div class="wrapper row5">
   <div id="copyright" class="hoc clear"> 
     <!-- ################################################################################################ -->
-    <p class="fl_left"> Copyright © Carrier & Shipment Portal 2017 - All Rights Reserved.</p>
+    <p class="fl_left"> Copyright Â© Carrier & Shipment Portal 2017 - All Rights Reserved.</p>
     <p> <a> Designed By SALIK, RAVI, SARFRAJ, VINAY</a></p>
   <!--  <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>-->
     <!-- ################################################################################################ -->
